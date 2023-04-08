@@ -1,0 +1,8 @@
+.product-info img{
+    height: 250px;
+}
+.product-info{
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 10px;
+}
